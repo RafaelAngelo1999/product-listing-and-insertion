@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": "d27417a2-10b0-484b-9a8d-d0bc4f131e0f",
+      "name": "Product 1",
+      "price": 9.84
+    },
+    {
+      "id": "5c9d21b2-cf45-4315-a220-647e3685d4b2",
+      "name": "Product 2",
+      "price": 0.74
+    },
+    {
+      "id": "a2074f19-3a13-4c29-bd90-ba48f94af9d5",
+      "name": "Product 3",
+      "price": 3.99
+    },
+    {
+      "id": "c3a1c607-f556-42c4-bb51-6a90e9c6e96a",
+      "name": "Product 4",
+      "price": 6.75
+    },
+    {
+      "id": "f2c4eb3e-27b1-4f07-b2f0-3f164ebbe09a",
+      "name": "Product 5",
+      "price": 5.79
+    },
+    {
+      "id": "72193351-70e0-4d43-becf-958c722d7468",
+      "name": "battle.net",
+      "price": 123
+    },
+    {
+      "id": "ee96c3aa-6a7b-4efe-b8e7-4d1c51258f84",
+      "name": "battle.net2",
+      "price": 123
+    },
+    {
+      "id": "ed4fd2d1-e669-4380-ac99-d85610d61d60",
+      "name": "battle.net2",
+      "price": 123
+    },
+    {
+      "id": "921535ef-12f8-41e4-8d50-47a97d6250ff",
+      "name": "battle.net2",
+      "price": 123
+    },
+    {
+      "id": "23570264-662f-4df6-82bc-8c335622aa59",
+      "name": "asdasd",
+      "price": 1231
+    },
+    {
+      "id": "9a7809af-3ae1-42b6-95b8-2a3324b64061",
+      "name": "asdsadas",
+      "price": 12
+    },
+    {
+      "id": "7b5abbfb-2062-48d5-a8dc-b357dfcecbf5",
+      "name": "1231231",
+      "price": 123
+    },
+    {
+      "id": "618aacde-1a7c-461d-b1d3-27006b956d09",
+      "name": "1231231",
+      "price": 123
+    },
+    {
+      "id": "521bafac-50e1-406d-9f90-607fdd85a638",
+      "name": "1231231",
+      "price": 12312
+    },
+    {
+      "id": "26343bf4-66a8-4da7-be97-e78046487b74",
+      "name": "1231231",
+      "price": 12312
+    }
+  ]
+}
